@@ -1,6 +1,6 @@
 # flutter_carousel_demo
 
-A new Flutter project.
+Flutter Carousel Demo.
 
 ## Getting Started
 
